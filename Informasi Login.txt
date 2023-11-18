@@ -1,0 +1,14 @@
+Admin :
+
+user : admin
+pass : admin
+
+Wali Kelas :
+
+user : budi
+pass : wali
+
+Siswa :
+
+Aktifin siswa melalui menu admin
+user dan password adalah NIS

@@ -1,0 +1,20 @@
+<form id="<?php echo $nama_form; ?>" method="post">
+    <div class="row">
+        <div class="col-md-5">
+            <div class="form-group">
+                <label>Username</label>
+                <input type="text" name="username" id="username" required class="form-control" autofocus="true">
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-5">
+            <div class="form-group">
+                <label>Password</label>
+                <input type="password" name="password" id="password" required class="form-control">
+            </div>
+        </div>
+    </div>
+    <button type="submit" id="tbLogin" class="btn btn-info btn-fill pull-left"><i class="fa fa-check-circle"></i> Login</button>
+    <div class="clearfix"></div>
+</form>
